@@ -10,8 +10,11 @@ de cada unidade do ficheiro en orde descendente segundo os seus valores.
 ### Exemplo de saída:
 
 unidade1 - 300
+
 unidade2 - 150
+
 unidade3 - 100
+
 unidade4 - 20 
 
 ## E escribilos nun ficheiro chamado puntosOrdeados.
