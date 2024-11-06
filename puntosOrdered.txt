@@ -1,0 +1,5 @@
+exorcist 190 4
+celestine 160 5
+dominion 125 1
+squad 105 0
+zephyrim 85 3
